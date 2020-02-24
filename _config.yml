@@ -23,7 +23,7 @@
 title: Some thoughts
 email: ckarlson14@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Chris Karlson and I'm creating an app called weWake, a chrome extension to save articles you read and recommend new ones (thus far unnamed), and a Dapp called Flipstreak.
+  I'm Chris Karlson and I'm creating an app called weWake, a chrome extension to save articles you read and recommend new ones (downup), and a Dapp called Flipstreak that you can play to win ETH.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ckarlson14.github.io
 twitter_username: chris__karlson
